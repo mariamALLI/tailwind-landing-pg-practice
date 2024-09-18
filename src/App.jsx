@@ -1,6 +1,6 @@
 import Header from "./Header"
 import Maiin from "./Maiin"
-import Footer from "./Footer"
+import FormSection from "./FormSection"
 
 function App() {
   
@@ -9,7 +9,7 @@ function App() {
     <>
     <Header />
     <Maiin />
-    <Footer />
+    <FormSection />
     </>
   )
 }
